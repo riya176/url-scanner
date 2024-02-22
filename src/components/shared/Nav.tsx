@@ -10,7 +10,7 @@ const Nav = () => {
           <img className="w-8 h-8" src={logo} alt="A logo of url scanner" />   Url Scanner
             </Link>
 
-           <Link target="_blank" to='https://github.com/thekarthikr/url-scanner'>
+           <Link target="_blank" to='https://github.com/riya176/url-scanner'>
           <Button color="success" variant="solid" >
             Github
           </Button>
